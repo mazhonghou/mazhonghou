@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhonghou&layout=compact)
 
 ![info](https://github-readme-stats.vercel.app/api?username=mazhonghou&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
